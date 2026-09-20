@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mptgsne.cn/sitemap.xml

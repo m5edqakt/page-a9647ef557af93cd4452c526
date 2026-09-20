@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "79aa1f35f2f0572d7c93ce60",
+  "owner": "m5edqakt",
+  "repo": "page-a9647ef557af93cd4452c526",
+  "title": "Electry",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a9647ef557af93cd4452c526",
+      "a": "Electry",
+      "b": "2027最新官网",
+      "entity": "Electry",
+      "brand": "Electry",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ec201f01db586564d88f5d885c161fa64540211e0e46a3279e807b74428d75a5",
+      "content": {
+        "primary_entity": "Electry",
+        "keyword1": "Electry",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，再配置订阅。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选对套餐，添好订阅，随时切换节点。",
+          "AI_CLOSING_TITLE": "开始使用 Electry",
+          "AI_DESCRIPTION": "，面向跨区访问、流媒体与游戏加速需求，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、3 台设备，适合轻量浏览；旗舰版每月 300GB、5 台设备，含 IPLC 专线与全节点流媒体解锁；团队版每月 1000GB、20 台设备，提供 VIP 高带宽节点。各档均年付可省，按使用量选择更清晰。",
+          "AI_FEATURES_INTRO": "围绕套餐差异、设备数量与订阅周期，快速找到合适档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "轻量浏览与偶尔跨区访问，选基础版即可；每月 100GB 流量覆盖日常查资料、听歌与短视频。",
+          "AI_FEATURE_TEXT_2": "多设备与流媒体需求，旗舰版更合适；300GB 流量、5 台同时在线，IPLC 线路兼顾游戏延迟。",
+          "AI_FEATURE_TEXT_3": "团队或家庭共享，团队版提供 1000GB 流量、20 台设备与可定制路由，年付 ¥850 更省。",
+          "AI_FEATURE_TITLE_1": "按用量挑",
+          "AI_FEATURE_TITLE_2": "按设备挑",
+          "AI_FEATURE_TITLE_3": "按周期挑",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成基础配置。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "Electry 提供基础版、旗舰版与团队版三档套餐，覆盖轻量浏览到团队共享场景；年付更省，设备数量与流量可按需升级。",
+          "AI_HERO_SUBTITLE": "按用量与设备选加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐，按流量与设备数选",
+          "AI_HIGHLIGHT_2": "年付更省，月付灵活切换",
+          "AI_HIGHLIGHT_3": "多端订阅，配置简洁上手快",
+          "AI_PLANS_INTRO": "基础版 ¥15/月（年付 ¥150），100GB、3 台设备；旗舰版 ¥35/月（年付 ¥350），300GB、5 台设备，含 IPLC 专线；团队版 ¥85/月（年付 ¥850），1000GB、20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据预算、流量与同时在线设备数，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与客户端类型，确认手机、电脑或路由器是否匹配。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅地址，保存后选择节点并开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Electry 加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Electry 套餐可以随时更换吗？",
+          "AI_FAQ_ANSWER_1": "套餐可以根据使用需求调整，升级或更换后按当前周期剩余情况处理，具体以购买时页面显示的变更规则为准。",
+          "AI_FAQ_QUESTION_2": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_2": "月付按月扣费，年付一次性支付全年费用，基础版年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，平均每月更低。",
+          "AI_FAQ_QUESTION_3": "同时在线设备数如何计算？",
+          "AI_FAQ_ANSWER_3": "同一时间连接到节点的设备数量计入在线数，基础版 3 台、旗舰版 5 台、团队版 20 台，断开后不再占用。",
+          "AI_FAQ_QUESTION_4": "订阅导入后无法连接怎么办？",
+          "AI_FAQ_ANSWER_4": "先检查订阅链接是否过期或复制完整，再确认客户端版本与节点状态，必要时更换节点或联系工单支持。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供 1000GB 月流量、20 台设备在线、VIP 高带宽节点和定制路由，适合小型团队多终端协作使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mptgsne.cn",
+    "host": "mptgsne.cn"
+  },
+  "file_hashes": {
+    "index.html": "dab7bde497af84a0c2ca089ed7b2d3892fc431fb838d0cfe4dcf77ddd253d6d9",
+    "sitemap.xml": "45e69bb3ca276e74023633afd27dc6f1613cc81b71519fc29ecc74b79e670255",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "78e469c2c73d61454c07131ae7a19ea8bcf227ac00c70ee92903cacf7234e937",
+    "robots.txt": "8037ab257418e593fec8d58df674e41134859c0fec98ba6b6e33b0f9e2bf5023",
+    "b45203e4b4e1a6d90f5dd3f238708737.txt": "7793cce6a9120e5c76eff080b6aadcd83ec67360b75a489725f8de6c9e76bc22"
+  },
+  "revision": "d8f8782ee4841039c998a825d143b3c0162f92f19df8f4013474e5b5421ef804"
+}
